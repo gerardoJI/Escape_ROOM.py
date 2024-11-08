@@ -12,7 +12,7 @@ In collaboration with @Esteban Cristos, we have modified a base code, and we cre
 
 This game allows players to go through a series of spaces within a house, while exploring and examining objects that can be interacted with. The goal is to find hidden keys among the objects to unlock the doors of the rooms inside the house, until finally making an escape.
 
---> Image of the game and gif of scape
+![Logo_juego](ER1.jpg)
 
 ### 💻 Game functions
 
