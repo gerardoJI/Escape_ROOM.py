@@ -20,7 +20,22 @@ This game allows players to go through a series of spaces within a house, while 
 - Temporizer added in hard mode to make a it more interesting .
 - New push action over the objects, to interact with all items within rooms.
 
---> Image of the game and gif of scape
+'''
+def explore_room(object_relations, room):
+    """
+    Explore a room. List all items belonging to this room.
+    """
+    items = [i["name"] for i in object_relations[room["name"]]]
+    print("\nYou explore the room. This is " + room["name"] + ". You find " + ", ".join(items))
+
+def get_next_room_of_door(door, object_relations, current_room):
+    next_room = None
+    for room in object_relations[door["name"]]:
+        if room != current_room:
+            next_room = room
+            break
+    return next_room
+'''
 
 ### 💡 Experience during development
 
