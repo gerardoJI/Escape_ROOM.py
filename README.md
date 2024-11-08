@@ -1,4 +1,4 @@
-# Escape_ROOM.py 
+# Escape_ROOM.py 🎮
 
 **Hello there!** 🚂🚂  I'm Gerardo Jiménez (www.linkedin.com/in/gerardo-jiménez-islas-9487b1227), a mining and metallurgy engineer exploring the coding world.
 
