@@ -52,6 +52,8 @@ def get_next_room_of_door(door, object_relations, current_room):
 ---
 
 ## 🎮🎮 DEMO 🎮🎮
+![Game_map](plantaer.jpg)
+**Game map**
 
 📔 **Try the game:** Go to the following link and try it online. 
 
