@@ -1,4 +1,7 @@
 # Escape_ROOM.py
+
+**Hello there!**  I'm Gerardo Jiménez (www.linkedin.com/in/gerardo-jiménez-islas-9487b1227), a mining and metallurgy engineer exploring the coding world.
+
 This post presents Escape_ROOM.py, a game developed in Python as a project for the Ironhack Data Analyst bootcamp.
 
 In collaboration with @Esteban Cristos, we have modified a base code, and we created and added new game features. As a result, we introduce Escape_ROOM.py. In the following lines, you will find a brief explanation of the game code, with the main challenges faced during development, the functions of the game, and the libraries included.
